@@ -1,5 +1,7 @@
 # Seed the RottenPotatoes DB with some movies.
 more_movies = [
+  {:title => 'The Butterfly Effect', :rating => 'G',
+   :release_date => '23-Jan-2004'},
   {:title => 'My Neighbor Totoro', :rating => 'G',
    :release_date => '16-Apr-1988'},
   {:title => 'Green Book', :rating => 'PG-13',
