@@ -1,1 +1,19 @@
-Programming Assignment 2: Hello RailsHeroku Deploy Link:https://cryptic-depths-52553.herokuapp.com/movies 
+Programming Assignment 2: Hello Rails
+
+Heroku Deploy Link:
+https://cryptic-depths-52553.herokuapp.com/movies 
+
+Project Webpage Output: 
+
+
+
+
+
+
+
+
+
+
+
+
+
