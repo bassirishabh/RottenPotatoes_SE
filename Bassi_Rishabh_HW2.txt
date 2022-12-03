@@ -3,7 +3,7 @@ Programming Assignment 2: Hello Rails
 Heroku Deploy Link:
 https://cryptic-depths-52553.herokuapp.com/movies 
 
-Project Webpage Output: 
+Project Webpage Output screenshots attached in file named Bassi_rishabh_HW2.pdf in github repo.
 
 
 
